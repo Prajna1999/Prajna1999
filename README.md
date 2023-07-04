@@ -10,7 +10,7 @@
 - 💬 Ask me about Dune, the book (The first two parts!)
 - 📫 How to reach me: gituprajna20@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:Emperor penguins might get clinically depressed.
+- ⚡ Fun fact: Emperor penguins might get clinically depressed.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajna-prayas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PrajnaPrayas) 
