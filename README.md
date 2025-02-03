@@ -2,15 +2,14 @@
 
 
 
-- 🔭 I’m currently working on side products where Large Language Models can be deployed.
+- 🔭 I’m currently working on building a Cloud Computing Resource Exchange where the user can buy/sell compute power akin to NSE for stocks.
 - 🔭 Day job includes writing backend code.
-- 🌱 I’m currently learning LLMs,express, react, postgres, databases, docker,python.
-- 👯 I’m looking to collaborate on products that leverage LLMs, OpenAI API or any other OSS.
-- 🤔 I’m looking for help with my job search.
+- 🌱 I’m currently learning Backend Communication Patterns from Husseun Nasser's Udemy Course. Also learning Go.
+- 👯 I’m looking to collaborate on products that leverage LLMs/ or does low level bytecode level stuff. (Databases, Cloud Infra, C Programming). Although my raw knowledge in these subjects are limited. I would get upto speed  fast.
 - 💬 Ask me about Dune, the book (The first two parts!)
 - 📫 How to reach me: gituprajna20@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Emperor penguins might get clinically depressed.
+- ⚡ Fun fact: I recently started a newsletter/blog on things that interest me. Would love to have a subscribe https://buttondown.com/prajna/archive/act-zero-on-software-writing/ !
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajna-prayas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PrajnaPrayas) 
