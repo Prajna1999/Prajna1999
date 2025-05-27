@@ -23,7 +23,7 @@
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, 
-- **BackEnd**:  Node.js, Express, fastapi
+- **BackEnd**:  Python, Go, Node.js, Express, fastapi
 - **CI/CD**:    GitHub Actions
 
   
@@ -31,7 +31,7 @@
 - **UI Frameworks**: Material-UI, Bootstrap
 - **Web technologies**: HTML5, CSS3, ES7+, a11y
 - **Databases**: PostgreSQL, MongoDB
-- **Misc**: Git, Eslint, Prettier, Supabase, Sequelize, typeorm,Docker
+- **Misc**: Git, Eslint, Prettier, Supabase, Sequelize, typeorm,Docker, Airflow
 - **Languages**: JavaScript, Python
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajna1999&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
