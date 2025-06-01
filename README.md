@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on  learning Common LISP.
+- 🔭 I’m currently  learning Common LISP.
 - 🔭 Day job includes writing backend code.
-- 🌱 I’m currently learning Backend Communication Patterns from Husseun Nasser's Udemy Course. Also learning Go.
+- 🌱 I’m currently learning Backend Communication Patterns from Husseun Nasser's Udemy Course. Also learning DSA in depth.
 - 👯 I’m looking to collaborate on products that leverage LLMs/ or does low level bytecode level stuff. (Databases, Cloud Infra, C Programming). Although my raw knowledge in these subjects are limited. I would get upto speed  fast.
 - 💬 Ask me about Dune, the book (The first two parts!)
 - 📫 How to reach me: gituprajna20@gmail.com
